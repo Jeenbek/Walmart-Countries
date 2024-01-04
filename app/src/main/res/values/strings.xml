@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Walmart-Countries</string>
+    <string name="country_name">"%s, "</string>
+    <string name="loadingDataFailed">Loading counries failed</string>
+</resources>
